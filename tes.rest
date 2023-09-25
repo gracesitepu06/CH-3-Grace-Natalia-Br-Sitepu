@@ -1,0 +1,2 @@
+# GET http://localhost:3000/api/v1/cars
+# GET http://localhost:3000/api/v1/cars/23574b8f-3e89-4685-a348-67c1f7e5b3c4
